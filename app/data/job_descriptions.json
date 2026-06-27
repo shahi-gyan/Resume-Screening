@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Python Backend Developer",
+    "description": "We are looking for a Python backend developer with strong experience in Flask or Django, REST API design, PostgreSQL, and Docker. The candidate should know Git, have experience with cloud platforms like AWS or GCP, and be comfortable with unit testing and CI/CD pipelines. Familiarity with Redis and microservices architecture is a plus. Must have 2+ years of experience."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Seeking an ML Engineer experienced in Python, scikit-learn, TensorFlow or PyTorch, and pandas/numpy. Must have hands-on experience building and deploying ML models, feature engineering, and model evaluation. Familiarity with NLP, computer vision, or recommendation systems is preferred. Experience with Docker, Kubernetes, and MLflow is a plus. 2-4 years experience required."
+  },
+  {
+    "title": "Frontend Developer",
+    "description": "We need a skilled frontend developer with expertise in React, JavaScript, TypeScript, HTML, and CSS. Knowledge of state management (Redux or Zustand), REST API integration, and responsive design is essential. Experience with Vue or Angular is a bonus. Must be comfortable with Git, Agile/Scrum, and have an eye for UI/UX design."
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Looking for a data analyst with strong SQL skills, Python (pandas, numpy, matplotlib), and experience with BI tools like Tableau or Power BI. Must be able to perform data cleaning, exploratory data analysis, and build dashboards. Knowledge of statistics, A/B testing, and Excel is required. Experience with machine learning or predictive modeling is a plus."
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "We are hiring a full stack developer with skills in React (frontend) and Node.js or Django (backend). Must have experience with PostgreSQL or MySQL, REST APIs, and Docker. Knowledge of AWS, Git, and Agile processes is required. TypeScript, GraphQL, and Redis experience are strong bonuses. 3+ years of experience expected."
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Seeking a DevOps Engineer with expertise in Kubernetes, Docker, Terraform, and CI/CD pipelines (Jenkins, GitLab CI, or GitHub Actions). Must have experience with cloud platforms (AWS, Azure, or GCP), monitoring tools (Prometheus, Grafana), and infrastructure as code. Knowledge of Linux, scripting (Bash/Python), and security best practices is essential. 3-5 years experience required."
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Looking for a Data Scientist with strong Python skills, experience in machine learning, statistical modeling, and data visualization. Must be proficient in SQL, pandas, scikit-learn, and either TensorFlow or PyTorch. Experience with big data tools (Spark, Hadoop) is a plus. Should have 3+ years of experience and a strong analytical mindset."
+  },
+  {
+    "title": "iOS Developer",
+    "description": "We are hiring an iOS developer with expertise in Swift and SwiftUI. Must have experience with UIKit, Core Data, networking, and REST API integration. Knowledge of Combine, async/await, and unit testing is required. Experience with Firebase, push notifications, and App Store deployment is a plus. 2+ years of iOS development experience required."
+  },
+  {
+    "title": "Android Developer",
+    "description": "Seeking an Android developer proficient in Kotlin and Jetpack Compose. Must have experience with MVVM architecture, Room database, Retrofit, and Coroutines. Knowledge of Google Play Services, push notifications, and material design guidelines is essential. Experience with Firebase, Dagger/Hilt, and unit testing is a plus. 2+ years of Android development required."
+  },
+  {
+    "title": "Cloud Architect",
+    "description": "Looking for a Cloud Architect with deep expertise in AWS (or Azure/GCP). Must have experience designing scalable, highly available cloud solutions, infrastructure as code (Terraform/CloudFormation), and cost optimization. Knowledge of networking, security, serverless architectures, and container orchestration (K8s/EKS) is required. 5+ years of cloud experience expected."
+  },
+  {
+    "title": "Security Engineer",
+    "description": "We need a Security Engineer skilled in application security, penetration testing, and vulnerability assessment. Must have experience with OWASP Top 10, secure coding practices, and security tools (Burp Suite, Nessus, Metasploit). Knowledge of cloud security, compliance (SOC2, ISO 27001), and incident response is required. 3+ years of security experience."
+  },
+  {
+    "title": "QA Automation Engineer",
+    "description": "Seeking a QA Automation Engineer with experience in Selenium, Cypress, or Playwright. Must have strong programming skills in Python or JavaScript, knowledge of test frameworks (PyTest, Jest), and CI/CD integration. Experience with API testing (Postman, REST Assured), performance testing (JMeter), and test management tools is a plus. 2-4 years of QA automation experience required."
+  },
+  {
+    "title": "Product Manager",
+    "description": "Looking for a Product Manager with technical background and experience in Agile/Scrum methodologies. Must have skills in product strategy, roadmap planning, stakeholder management, and data-driven decision making. Experience with JIRA, Confluence, and user research is essential. Knowledge of A/B testing, analytics tools, and market analysis is a plus. 3+ years of product management experience."
+  },
+  {
+    "title": "Project Manager",
+    "description": "We are hiring a Project Manager with strong leadership and organizational skills. Must have experience with Agile, Scrum, or Waterfall methodologies, project planning, risk management, and team coordination. Proficiency in JIRA, Trello, or Asana is required. PMP or Scrum Master certification is a plus. 3-5 years of project management experience in software development."
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "Seeking a UI/UX Designer with expertise in Figma, Adobe XD, or Sketch. Must have experience in user research, wireframing, prototyping, and usability testing. Knowledge of design systems, responsive design, and accessibility standards (WCAG) is essential. Experience with HTML/CSS, animation tools, and user analytics is a plus. 2+ years of design experience required."
+  },
+  {
+    "title": "Database Administrator",
+    "description": "Looking for a Database Administrator with strong experience in PostgreSQL, MySQL, or Oracle. Must have skills in database design, performance tuning, backup/recovery, and security management. Knowledge of replication, sharding, and cloud databases (RDS, Aurora) is required. Experience with MongoDB, Redis, or Cassandra is a plus. 3+ years of DBA experience."
+  },
+  {
+    "title": "Network Engineer",
+    "description": "We need a Network Engineer with expertise in routing, switching, firewalls, and network security. Must have experience with Cisco, Juniper, or Arista equipment, and knowledge of protocols like BGP, OSPF, VLANs, and VPNs. Experience with SD-WAN, cloud networking (AWS VPC, Azure VNet), and network monitoring tools is a plus. 3-5 years of network engineering experience required."
+  },
+  {
+    "title": "Technical Support Engineer",
+    "description": "Seeking a Technical Support Engineer with strong troubleshooting and customer service skills. Must have experience with Linux/Windows servers, networking basics, and SQL queries. Knowledge of ticketing systems (Jira, Zendesk), monitoring tools, and API debugging is required. Experience with cloud platforms, scripting (Python/Bash), and database management is a plus. 1-3 years of support experience."
+  },
+  {
+    "title": "Blockchain Developer",
+    "description": "Looking for a Blockchain Developer with expertise in Solidity, Ethereum, and smart contract development. Must have experience with Web3.js, Truffle/Hardhat, and DeFi/NFT standards (ERC20, ERC721). Knowledge of consensus algorithms, cryptography, and layer-2 solutions is required. Experience with Rust, Solana, or Hyperledger is a plus. 2+ years of blockchain development experience."
+  },
+  {
+    "title": "Game Developer",
+    "description": "We are hiring a Game Developer with experience in Unity (C#) or Unreal Engine (C++). Must have skills in game physics, animation, AI, and optimization. Knowledge of version control (Git/Perforce), shader programming, and multiplayer networking is required. Experience with mobile or console game development is a plus. 2-4 years of game development experience."
+  },
+  {
+    "title": "Embedded Systems Engineer",
+    "description": "Seeking an Embedded Systems Engineer proficient in C/C++, microcontrollers (ARM, AVR), and real-time operating systems (RTOS). Must have experience with communication protocols (I2C, SPI, UART, CAN), hardware debugging, and PCB design. Knowledge of IoT protocols (MQTT, CoAP), wireless technologies (BLE, WiFi), and firmware security is a plus. 3+ years of embedded development experience."
+  },
+  {
+    "title": "Salesforce Developer",
+    "description": "Looking for a Salesforce Developer with experience in Apex, Lightning Web Components (LWC), and SOQL. Must have skills in Salesforce configuration, workflow automation, and integration with external systems via REST/SOAP APIs. Knowledge of Sales Cloud, Service Cloud, and Community Cloud is required. Salesforce certifications (Platform Developer I/II) are a plus. 2+ years of Salesforce development."
+  },
+  {
+    "title": "SAP Consultant",
+    "description": "We need an SAP Consultant with expertise in SAP FICO, MM, SD, or HCM modules. Must have experience in SAP implementation, customization, and support. Knowledge of ABAP programming, SAP S/4HANA, and Fiori is required. Experience with SAP integration tools (PI/PO, CPI) and data migration (LSMW, BAPI) is a plus. 3-5 years of SAP consulting experience."
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "description": "Seeking a Site Reliability Engineer with experience in monitoring, incident response, and reliability engineering. Must have skills in Kubernetes, Docker, Prometheus, Grafana, and logging tools (ELK stack). Knowledge of cloud platforms, infrastructure as code (Terraform), and chaos engineering is required. Strong programming skills in Python or Go are essential. 3+ years of SRE experience."
+  },
+  {
+    "title": "Technical Writer",
+    "description": "Looking for a Technical Writer with experience creating documentation for software products, APIs, and user guides. Must have strong writing skills, attention to detail, and ability to explain complex technical concepts clearly. Knowledge of Markdown, reStructuredText, and documentation tools (Sphinx, MkDocs, Confluence) is required. Experience with Git, JIRA, and API documentation tools (Swagger) is a plus."
+  },
+  {
+    "title": "Scrum Master",
+    "description": "We are hiring a Scrum Master with experience leading Agile teams and facilitating Scrum ceremonies. Must have skills in sprint planning, retrospectives, daily stand-ups, and removing impediments. Knowledge of JIRA, Confluence, and Agile metrics (velocity, burndown charts) is required. CSM or PSM certification is essential. 2-4 years of Scrum Master experience."
+  },
+  {
+    "title": "Business Analyst",
+    "description": "Seeking a Business Analyst with experience gathering requirements, creating user stories, and bridging communication between stakeholders and development teams. Must have skills in process modeling, data analysis, and functional testing. Knowledge of SQL, JIRA, Confluence, and BPMN tools is required. CBAP certification is a plus. 2-4 years of business analysis experience."
+  },
+  {
+    "title": "AI Research Scientist",
+    "description": "Looking for an AI Research Scientist with a PhD or Master's in CS/AI and strong publication record. Must have expertise in deep learning, reinforcement learning, or generative AI. Experience with PyTorch or TensorFlow, large language models (LLMs), and model optimization is required. Knowledge of computer vision, NLP, or robotics is a plus. 3+ years of research experience."
+  },
+  {
+    "title": "Solution Architect",
+    "description": "We need a Solution Architect with experience designing end-to-end software solutions. Must have expertise in microservices, cloud architecture, databases, and integration patterns. Knowledge of AWS/Azure/GCP, containerization (K8s/Docker), and enterprise architecture frameworks (TOGAF) is required. Strong communication and leadership skills are essential. 5+ years of architecture experience."
+  },
+  {
+    "title": "Mobile App Developer (Flutter)",
+    "description": "Seeking a Mobile App Developer with expertise in Flutter and Dart. Must have experience building cross-platform apps for iOS and Android, integrating REST APIs, and using state management (Provider, Bloc). Knowledge of Firebase, push notifications, and app store deployment is required. Experience with native iOS (Swift) or Android (Kotlin) is a plus. 2+ years of Flutter development."
+  },
+  {
+    "title": "Data Engineer",
+    "description": "Looking for a Data Engineer with experience in ETL/ELT pipelines, data warehousing, and big data technologies. Must have skills in Python, SQL, Spark, Airflow, and cloud platforms (AWS/GCP/Azure). Knowledge of data modeling, data quality, and streaming technologies (Kafka, Kinesis) is required. Experience with dbt, Snowflake, or Redshift is a plus. 3+ years of data engineering experience."
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "description": "We are hiring a Cybersecurity Analyst with experience in threat monitoring, incident response, and vulnerability management. Must have skills in SIEM tools (Splunk, ELK), endpoint protection, and network security. Knowledge of compliance frameworks (NIST, ISO 27001), penetration testing, and security awareness training is required. Security certifications (Security+, CISSP) are a plus. 2-4 years of security experience."
+  },
+  {
+    "title": "Release Manager",
+    "description": "Seeking a Release Manager with experience coordinating software releases, version control (Git), and CI/CD pipelines. Must have skills in release planning, change management, and deployment automation. Knowledge of Jenkins, GitLab CI, JIRA, and Confluence is required. Experience with DevOps practices, containerization, and cloud deployments is a plus. 3+ years of release management experience."
+  }
+]
